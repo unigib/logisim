@@ -2,9 +2,9 @@
   <img src="logo.png" alt="University of Gibraltar" width="200">
 </p>
 
-# Digital Systems Laboratory
+# Logisim Digital Laboratory
 
-University of Gibraltar digital systems laboratory projects, featuring a curated collection of Logisim circuits, including both evolving designs and older legacy projects. Some of the older files will be converted to newer Logisim Efvolution formats over time.
+University of Gibraltar Logisim digital laboratory projects, featuring a curated collection of Logisim circuits, including both evolving designs and older legacy projects. Some of the older files will be converted to newer Logisim Efvolution formats over time.
 
 They were originally curated from https://github.com/sudecakmak/Digital-Systems-Laboratory
 
